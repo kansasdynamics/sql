@@ -35,5 +35,5 @@ ORDER BY Orders.OrderID;
 -- Full Join (Selects all records when there is a match in either the left or right table)
 SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
-FULL OUTER JOIN Orders ON Customers.CustomerID=Orders.CustomerID
+FULL JOIN Orders ON Customers.CustomerID=Orders.CustomerID
 ORDER BY Customers.CustomerName;
