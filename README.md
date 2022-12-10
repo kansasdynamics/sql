@@ -5,7 +5,7 @@ SQL Template Scripts
 These scripts are basic template files to be modified when working with applications that require database manipulation.
 
 ## Platforms
-The structure of these scripts follows Microsoft TSQL syntax, but can be refactored for other databases such as MySQL/MariaDB, PostgreSQL, Oracle, etc.
+The structure of these scripts follows Microsoft T-SQL syntax, but can be refactored for other databases such as MySQL/MariaDB, PostgreSQL, Oracle, etc.
 
 ## Usage  
 See the instructions below for each script.  
