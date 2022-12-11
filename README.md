@@ -10,5 +10,5 @@ The structure of these scripts follows Microsoft T-SQL syntax, but can be refact
 ## Usage  
 See the instructions below for each script.  
 
-### *JOINS*  
+### *JOIN*  
 Joins are useful when querying sets of data that span multiple tables. For example, in AP automation, we might need to query an Invoices table to get the InvoiceNumber and then query the Vendor table to get the VendorID to match the associated records.
